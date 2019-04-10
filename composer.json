@@ -1,0 +1,19 @@
+{
+    "name": "yumufengkaiping/helpers",
+    "description": "some useful utilities",
+    "type": "library",
+    "authors": [
+        {
+            "name": "feng",
+            "email": "578045388@qq.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.6"
+    },
+    "autoload": {
+	    "psr-4": {
+	        "yumufengkaiping\\helpers\\": "src/"
+	    }
+	}
+}
